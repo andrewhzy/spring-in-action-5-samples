@@ -13,25 +13,19 @@
     <modules>
         <module>ch01/tacos</module>
         <module>ch02/tacos</module>
-
         <module>ch03/tacos-jdbc</module>
         <module>ch03/tacos-jpa</module>
-
-
-        <module>ch04/tacos</module>
-
-        <module>ch05/tacos</module>
-
+        <module>ch03/tacos-sd-jdbc</module>
+        <module>ch04/tacos-sd-cassandra</module>
+        <module>ch04/tacos-sd-mongodb</module>
+        <module>ch05/taco-cloud</module>
+        <module>ch05/taco-cloud-sfc</module>
         <module>ch06/taco-cloud</module>
-
         <module>ch07</module>
-
         <module>ch08/auth-server</module>
         <module>ch08/tacocloud</module>
         <module>ch08/tacocloud-admin</module>
-
         <module>ch09</module>
-
         <module>ch11/reactor-fun</module>
         <module>ch12_13/hello-reactive</module>
         <module>ch12_13/tacocloud-cassandra</module>
@@ -51,6 +45,132 @@
         <module>ch15_16/tacocloud</module>
         <module>ch17/admin-server</module>
         <module>ch17/tacocloud</module>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <module>tacos</module>
+        <module>tacocloud-api</module>
+        <module>tacocloud-data</module>
+        <module>tacocloud-domain</module>
+        <module>tacocloud-security</module>
+        <module>tacocloud-web</module>
+        <module>tacocloud-ui</module>
+
+
+
+        <module>tacos</module>
+        <module>tacocloud-api</module>
+        <module>tacocloud-data</module>
+        <module>tacocloud-domain</module>
+        <module>tacocloud-restclient</module>
+        <module>tacocloud-security</module>
+        <module>tacocloud-web</module>
+        <module>tacocloud-ui</module>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     </modules>
 
 </project>
